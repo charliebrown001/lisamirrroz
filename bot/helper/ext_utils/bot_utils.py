@@ -360,7 +360,7 @@ CPU: {cpu}% | RAM: {mem}%
 Disk: {total} | Free: {free}
 Used: {used} [{disk}%]
 
-Made with ❤️ by Dawn
+Made with ❤️ by rohan
 """
     return stats
 dispatcher.add_handler(
